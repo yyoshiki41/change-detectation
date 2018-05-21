@@ -3,3 +3,5 @@ rvm:
 - 2.2
 script:
 - scripts/codedeploy-ruby-v25.sh
+notifications:
+  email: false
